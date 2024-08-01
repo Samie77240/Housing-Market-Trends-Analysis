@@ -75,7 +75,7 @@ For deploying this project on a live system, ensure that:
 
 ## Author
 
-- **Samuel Moses** - [Samie77240](https://github.com/Samie77240)
+- **Samuel Moses -100991246** - [Samie77240](https://github.com/Samie77240)
 
 ## License
 
@@ -84,7 +84,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgements
 
 - Data source: https:www.kaggle.com/datasets/gregoru/housingmarket
-- Inspiration from various tutorials and documentation
+
 
 
 
