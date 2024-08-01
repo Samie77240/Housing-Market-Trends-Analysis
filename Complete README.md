@@ -44,3 +44,7 @@ To run the tests, execute:
 ```sh
 python housing_analysis.py
 
+## Acknowledgements
+
+- Hat tip to anyone whose code was used
+- Inspiration from various tutorials and documentation
