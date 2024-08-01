@@ -19,12 +19,12 @@ A step-by-step series of examples that tell you how to get a development environ
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Samie77240/Housing-Market-Trend-Analysis.git
+    git clone https://github.com/Samie77240/Housing-Market-Trends-Analysis.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd Assignment5
+    cd Housing-Market-Trends-Analysis
     ```
 
 3. Install the necessary packages:
@@ -32,8 +32,15 @@ A step-by-step series of examples that tell you how to get a development environ
     pip install pandas
     ```
 
-### Running the Script
+## Running the Tests
 
-To run the script and perform the analysis, execute:
+Explain how to run the automated tests for this system:
+
+### Breakdown of Tests
+
+- The script includes basic data integrity checks and summary statistics calculations.
+
+To run the tests, execute:
 ```sh
 python housing_analysis.py
+
