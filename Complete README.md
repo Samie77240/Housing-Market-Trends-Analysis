@@ -19,7 +19,7 @@ A step-by-step series of examples that tell you how to get a development environ
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Assignment5.git
+    git clone https://github.com/Samie77240/Housing-Market-Trend-Analysis.git
     ```
 
 2. Navigate to the project directory:
