@@ -32,11 +32,11 @@ A step-by-step series of examples that tell you how to get a development environ
     pip install pandas
     ```
 
-## Running the Tests
+### Running the Tests
 
 Explain how to run the automated tests for this system:
 
-### Breakdown of Tests
+#### Breakdown of Tests
 
 - The script includes basic data integrity checks and summary statistics calculations.
 
